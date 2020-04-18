@@ -5,4 +5,8 @@ The previous version of this manuscript was entitled: The effect of dopamine tra
 
 Figures.pdf contains the 12 figures for the main manuscript (manuscript.pdf), whereas supporting_information_figures.pdf contains the 37 figures for the supporting-information file, supporting_information_text.pdf. 
 
-Matlab_Live_Script.mlx contains the simulation code associated with the manuscript. This file should run on recent versions of Matlab (it was created in R2019b). Live-Script_instructions.pdf explains how to install and run the Live Script. Matlab_Live_Script.html displays the Live Script in a browser. 
+Matlab_Live_Script.mlx contains the simulation code associated with the manuscript. External figures imported by the Live Script are contained in Imported_figures_for_Live_Script.zip. 
+
+The Live Script should run on any version of Matlab from R2018a onwards. The script hasn’t been tested on earlier versions, but it may run on versions as far back as R2016a.
+
+Live-Script_instructions.pdf explains how to install and run the Live Script. Matlab_Live_Script.html displays the Live Script in a browser. 
