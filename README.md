@@ -10,3 +10,5 @@ Matlab_Live_Script.mlx contains the simulation code associated with the manuscri
 The Live Script should run on any version of Matlab from R2018a onwards. The script hasn’t been tested on earlier versions, but it may run on versions as far back as R2016a.
 
 Live-Script_instructions.pdf explains how to install and run the Live Script. Matlab_Live_Script.html displays the Live Script in a browser. 
+
+Raw data for this study are available here: https://spectrum.library.concordia.ca/986807/
